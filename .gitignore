@@ -1,0 +1,13 @@
+# 로컬 학습 및 평가 준비 자료는 제출 대상에서 제외한다.
+/study/
+/web/
+/DESIGN.md
+
+# SQL 스크립트로 다시 생성되는 로컬 DB는 제출하지 않는다.
+/bookstore.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# macOS 메타데이터
+.DS_Store
